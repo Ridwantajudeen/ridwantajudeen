@@ -23,7 +23,7 @@
   Software Developer building web, mobile, and e-commerce apps for real clients
 </p>
 
-I'm a Software Developer specializing in React-based web and mobile applications. I build and ship production apps across web, React Native mobile, WordPress/WooCommerce e-commerce, and Web3 frontends — for freelance clients and personal projects alike.
+I'm a Software Developer specializing in React-based web and mobile applications. I build and ship production apps across web, React Native mobile, WordPress/WooCommerce e-commerce, and Web3 frontends for freelance clients and personal projects alike.
 
 - 🔭 Currently building client web and mobile apps as a freelance developer
 - 💻 Recent work: a pharmacy business website with payment & infrastructure integrations, a cross-platform journaling app (React Native/Expo), and a decentralized escrow platform frontend integrated with Ethereum smart contracts
